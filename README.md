@@ -1,4 +1,4 @@
-## SOONHO BAE ([🔗 Portfolio](https://juo-pages.notion.site/Portfolio-21013138f4b28026ad69f982a7b03dfc))
+## Soonho Bae ([🔗 Portfolio](https://juo-pages.notion.site/Portfolio-21013138f4b28026ad69f982a7b03dfc))
 
 |Repository|Link|
 |--------|--------|
